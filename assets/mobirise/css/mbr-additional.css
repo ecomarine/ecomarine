@@ -1548,6 +1548,13 @@ h6,
   text-align: left;
   color: #000000;
 }
+#header3-4t .mbr-section-title,
+#header3-4t .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-4t H3 {
+  font-size: 30px;
+}
 #form1-3h .form-control-label {
   color: #232323;
 }
